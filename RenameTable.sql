@@ -1,0 +1,1 @@
+RENAME TABLE workers to employees;
