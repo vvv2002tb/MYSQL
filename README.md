@@ -1,5 +1,8 @@
 # MYSQL TASK PROCESS
 
+LINK Document: 
+![alt text](https://confused-goose-2a3.notion.site/BASIC-OF-MYSQL-DATABASE-6b08c57b9f9d415da35f30590b92d78e?pvs=74)
+
 - CREATE, DROP NEW DATABASE ✅
 - CREATE, DROP, ALTER TABLE ✅
 - SELECT STATEMENT ✅
